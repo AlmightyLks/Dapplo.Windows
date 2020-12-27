@@ -1,0 +1,4404 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/doc",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Advapi32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Advapi32Api.html",
+          "hash": "O6Dhkkhe55+3xJBrR0y09w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Enums.RegistryKeySecurityAccessRights.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Enums.RegistryKeySecurityAccessRights.html",
+          "hash": "fld4mC2mHk+VCpgHlhvQwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Enums.RegistryNotifyFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Enums.RegistryNotifyFilter.html",
+          "hash": "xRCnFSigiTfHDKIlONUE1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Enums.RegistryOpenOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Enums.RegistryOpenOptions.html",
+          "hash": "lsa1tDmXWX4qh6cjflOqFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Enums.TokenInformationClasses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Enums.TokenInformationClasses.html",
+          "hash": "NY3Ps2YAR0fuY7dO7e+Jrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Enums.html",
+          "hash": "VkOjUAWtPFk+TlBeSXxjmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.RegistryMonitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.RegistryMonitor.html",
+          "hash": "uTOmsY0u6m4dXeTfve2oJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Structs.SidAndAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Structs.SidAndAttributes.html",
+          "hash": "2X+kKIXbknSIId1OvrD7ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Structs.TokenGroups.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Structs.TokenGroups.html",
+          "hash": "/v8SpfWopvqWDqV6EW3RhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.Structs.html",
+          "hash": "rE2a+oZTpHtOYC5xskKzLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Advapi32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Advapi32.html",
+          "hash": "dqrO0J5oc++X9srb5GvMqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.App.AppQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.App.AppQuery.html",
+          "hash": "U65obEROEx2OBlieJzOgUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.App.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.App.html",
+          "hash": "wjIos/mxwjVb17SwqGUy5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Enums.ConnectStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Enums.ConnectStates.html",
+          "hash": "Yf6D7voub7w317ou2yK0Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Enums.EventMask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Enums.EventMask.html",
+          "hash": "czNodZE75WDx7SU5vhPGBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Enums.InfoClasses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Enums.InfoClasses.html",
+          "hash": "RBUNkJoTzyYQo6FMi7hUig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Enums.html",
+          "hash": "nJbvWnVRqbjVfcxNA6rPVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.AppInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.AppInfo.html",
+          "hash": "eGGj92S+qqwysKD5i4IyWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientAddress.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientAddress.html",
+          "hash": "6fJ1weVGQthx2P5ESBSfIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientDisplay.html",
+          "hash": "eDuqbHX5Le5ocLvJjTjtxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientInfo.html",
+          "hash": "krTRCPfv1yqXz3C3yWraMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientLatency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.ClientLatency.html",
+          "hash": "uYb82zgpTsf2w5VRO8VMBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.OsVersionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.OsVersionInfo.html",
+          "hash": "1+i1USLX/P+waeGMc0aLww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.SessionTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.SessionTime.html",
+          "hash": "izNQrBwYPkj9HfDtpPfHRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.UserInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.UserInfo.html",
+          "hash": "Ybzz2SakQLhlwYn8vxTJtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.Structs.html",
+          "hash": "X2hbK6Jc4G1m2pcftXkxdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.WinFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.WinFrame.html",
+          "hash": "1aJQtkVShIs9A9IGni2Z1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Citrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Citrix.html",
+          "hash": "Xf16cHNt4RemgIJLKGmH1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardAccessDeniedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardAccessDeniedException.html",
+          "hash": "xH5HgNPuGWGbRp5LlHsIBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardByteExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardByteExtensions.html",
+          "hash": "IcMQNigMUu7CVpiGzbwrlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardFileExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardFileExtensions.html",
+          "hash": "7ZKDEWdxyd4AuL6wCtk6kQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardFormatExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardFormatExtensions.html",
+          "hash": "77O8FxEIvmkAAV3PHzO0qQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardMiscExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardMiscExtensions.html",
+          "hash": "uEQjvlFJ9aN5Z+98ZPEynw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardNative.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardNative.html",
+          "hash": "zjIe17/38Z1X9ZueumQ2jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardRenderFormatRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardRenderFormatRequest.html",
+          "hash": "4iOtLdIGAMi6P5j0rlxB8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardStreamExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardStreamExtensions.html",
+          "hash": "FGfKfZgmDTEOqjq2LDyorQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardStringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardStringExtensions.html",
+          "hash": "MDWL3EQIJ2DIYK9JrQFZvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.ClipboardUpdateInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.ClipboardUpdateInformation.html",
+          "hash": "0AKS/Z0sV8gPHWTGq4+LzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.IClipboardAccessToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.IClipboardAccessToken.html",
+          "hash": "CWYticUKbqAt6v1uw5p9LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.StandardClipboardFormats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.StandardClipboardFormats.html",
+          "hash": "2tTaaQO85DIpvfUutmvrGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Clipboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Clipboard.html",
+          "hash": "zV7uv6JBOQMgsr2KRvt3MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.ComProgIdAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.ComProgIdAttribute.html",
+          "hash": "Z115N6LFT4LgwLsQeISbDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.ComWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.ComWrapper.html",
+          "hash": "Sr//e23rYE4HXT5F5RlJYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.DisposableCom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.DisposableCom.html",
+          "hash": "8nntTrlDrZCXho0md2pTyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.IDispatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.IDispatch.html",
+          "hash": "5VYC0uF+zobWzbxcOH9dBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.IDisposableCom-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.IDisposableCom-1.html",
+          "hash": "Gw+yQY0VJGnFEOkLW+tMjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.IOleCommandTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.IOleCommandTarget.html",
+          "hash": "kGiP9RFrlKnzapcP5XrMHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.IOleWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.IOleWindow.html",
+          "hash": "dmirj6mUI6eLHGajoV/JYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.IUnknown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.IUnknown.html",
+          "hash": "kHmQZBIggJA3g8tjChC3ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.Ole32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.Ole32Api.html",
+          "hash": "xG847121/rl7EXlDeoBtRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.OleAut32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.OleAut32Api.html",
+          "hash": "MK1grC9Kx27JmVqAyvC4jQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Com.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Com.html",
+          "hash": "MsN9oQyQsQZQGTIxB500Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Enums.AdjacentTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Enums.AdjacentTo.html",
+          "hash": "Opmq3FV6eNSIltn5H7reIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Enums.HResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Enums.HResult.html",
+          "hash": "zLGkIKblcun6HWB3ZppUmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Enums.Win32Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Enums.Win32Error.html",
+          "hash": "QclGIMaJ25+0JI/4VLSB+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Enums.html",
+          "hash": "+JMBTcqAkcQTfICxk/73yA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.HResultExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.HResultExtensions.html",
+          "hash": "7oLwMRGxmTfK7PxdLIaHJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.NativePointExensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.NativePointExensions.html",
+          "hash": "UO3JIB2YyS+5QWMWG6tlBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.NativePointFloatExensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.NativePointFloatExensions.html",
+          "hash": "FL0/NImFhUvHnoQjZq+Spw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.NativeRectExensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.NativeRectExensions.html",
+          "hash": "VW6a2+m6pVoN5ak0+Pdldg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.NativeRectFloatExensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.NativeRectFloatExensions.html",
+          "hash": "GSFHsZnd+ppnUuljKlaqKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.NativeSizeExensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.NativeSizeExensions.html",
+          "hash": "mthHkETV3saCadR2gYgu/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.NativeSizeFloatExensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.NativeSizeFloatExensions.html",
+          "hash": "9gOctKFtd5b8M/9rNksUJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Extensions.html",
+          "hash": "GJ9LYtSS7ybg/WQVodaUDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.NativePoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.NativePoint.html",
+          "hash": "uJrXMmi4J92dVOUEfkdipQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.NativePointFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.NativePointFloat.html",
+          "hash": "JCjjk3UBl96QX2bZX/roBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.NativeRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.NativeRect.html",
+          "hash": "Wt3hCMZp63pjorWm2ML1XQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.NativeRectFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.NativeRectFloat.html",
+          "hash": "SMCDUuETrcJ3O88zW3VFkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.NativeSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.NativeSize.html",
+          "hash": "kRfivMPrCoRa8zmuKPSQ3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.NativeSizeFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.NativeSizeFloat.html",
+          "hash": "gtBvBcYd92d3m3W7Wqwvlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Structs.html",
+          "hash": "EHqbMNf0GiPkv2zZ5QEJ/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativePointTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativePointTypeConverter.html",
+          "hash": "Ev148ty5bt1EK5q/6GTu6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeRectFloatTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeRectFloatTypeConverter.html",
+          "hash": "MVNgAp6PBGrEZCL02SuOWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeRectTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeRectTypeConverter.html",
+          "hash": "HKsQdO40g1q7svVugLgt+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeSizeFloatTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeSizeFloatTypeConverter.html",
+          "hash": "qGvpsdrOg0fclOxwSfCPlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeSizeTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.TypeConverters.NativeSizeTypeConverter.html",
+          "hash": "DjCG/EXb0rMfkQJ//UfLwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.TypeConverters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.TypeConverters.html",
+          "hash": "U2HQqtlmACNrter01y7OFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.Win32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.Win32.html",
+          "hash": "TkjOkxrcgVrKq9lmFlMcyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.WindowsVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.WindowsVersion.html",
+          "hash": "iG9H6PRQpBJfrlOtxwXyew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Common.html",
+          "hash": "hHvCKFGfL/T5OEJyX8Y15Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.EnvironmentChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.EnvironmentChangedEventArgs.html",
+          "hash": "Lgr02u7NQcjqS/R+dMniGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.EnvironmentMonitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.EnvironmentMonitor.html",
+          "hash": "Unh754GS9x4ShlRzgdRwNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.IInteropWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.IInteropWindow.html",
+          "hash": "lV+vvGQ9Z9YzuQ0hrMToBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.InteropWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.InteropWindow.html",
+          "hash": "KatS2I9TrMALHAZ3V4j5Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.InteropWindowExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.InteropWindowExtensions.html",
+          "hash": "+lSn8d5neeNOEqPzjtH4Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.InteropWindowFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.InteropWindowFactory.html",
+          "hash": "sYq8+B9IskzmIyJ1d+H/pA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.InteropWindowQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.InteropWindowQuery.html",
+          "hash": "hz0HH+vjddAwRT+MYUJL4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.WinEventHook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.WinEventHook.html",
+          "hash": "JJkCMG9d64KUH/FKNfhGLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.WindowScroller.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.WindowScroller.html",
+          "hash": "wxGQ8beRw0gEgATrVS/9kw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.WindowsEnumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.WindowsEnumerator.html",
+          "hash": "7lRIaglQuMPuBKRkrf4ikQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Desktop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Desktop.html",
+          "hash": "5QV2AngKvwmMw6hz4Uyscg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Dwm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Dwm.html",
+          "hash": "2TXF06CkXALB4o6Nv5L5fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.DwmBlurBehind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.DwmBlurBehind.html",
+          "hash": "QdWq4DTNqwHlzHnyPpJLtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmBlurBehindFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmBlurBehindFlags.html",
+          "hash": "+r2nHNgUzJypRD8iAO6v2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmSetIconicLivePreviewFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmSetIconicLivePreviewFlags.html",
+          "hash": "eJ5hsh2gdvDPdql7/KM6kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmThumbnailPropertyFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmThumbnailPropertyFlags.html",
+          "hash": "Th8qzu4MI1BpvzPV+zdA4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmWindowAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.DwmWindowAttributes.html",
+          "hash": "WdCB7ABO4swbtlqJRkxGdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Enums.html",
+          "hash": "/vKtJtDf58XPzl5T3yWReA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Structs.DwmThumbnailProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Structs.DwmThumbnailProperties.html",
+          "hash": "GcPnPQcrV7d2AE+byraLOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.Structs.html",
+          "hash": "7FOzKGe3y9OBmvKYGNQzxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.DesktopWindowsManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.DesktopWindowsManager.html",
+          "hash": "3WOoUd8v+iT/PhkXdcEyGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.DeviceInterfaceChangeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.DeviceInterfaceChangeInfo.html",
+          "hash": "33vacHDOgwcRywgAcPfxGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.DeviceNotification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.DeviceNotification.html",
+          "hash": "B9oDoYAG2RAlps91ldT1HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.DeviceNotificationEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.DeviceNotificationEvent.html",
+          "hash": "8nv0Mm0NY5EqjU/yFiPa+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceBroadcastDeviceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceBroadcastDeviceType.html",
+          "hash": "TTu+PivF+5BeoERQk+UuuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceChangeEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceChangeEvent.html",
+          "hash": "Pacfrcu+al67qFPL4wrVNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceInterfaceClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceInterfaceClass.html",
+          "hash": "mo0vWKXzG038W45BNOYn9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceNotifyFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Enums.DeviceNotifyFlags.html",
+          "hash": "JCSZWLoVKfAgPqCUWWjwPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Enums.html",
+          "hash": "J+wpqsjOE8dbwz5StFlLKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastDeviceInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastDeviceInterface.html",
+          "hash": "F3/TTI+jA0B47sqdJJtSXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastHandle.html",
+          "hash": "tsWhNXT1LJQQJtZyUzAAPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastHeader.html",
+          "hash": "KsWgj4OULAuh8JGQolWprg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastPort.html",
+          "hash": "gB/+UpkwHcQgaY2nAtAnow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastVolume.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Structs.DevBroadcastVolume.html",
+          "hash": "w4jZrtXKkEBazUHcoEm2xQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.Structs.html",
+          "hash": "LIuRb0V3WE4Lvs9Lt3cOkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.VolumeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.VolumeInfo.html",
+          "hash": "Vsi3cnRmCs6NkJJr0u+USg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Devices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Devices.html",
+          "hash": "jE4phzY9ux7TjrA/goXjeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.BitmapScaleHandler-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.BitmapScaleHandler-2.html",
+          "hash": "VpKqOfBwotfx1jc6xrpaHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.BitmapScaleHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.BitmapScaleHandler.html",
+          "hash": "oUDrH+MZTVy2Z9Mal5RebA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.DpiChangeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.DpiChangeInfo.html",
+          "hash": "elUOzRPauq05JvkAWPegMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.DpiHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.DpiHandler.html",
+          "hash": "sNrm+B09L7us2K88M+590Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.DialogDpiChangeBehaviors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.DialogDpiChangeBehaviors.html",
+          "hash": "X2lE1c0U5JWCRhG+fv94xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.DialogScalingBehaviors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.DialogScalingBehaviors.html",
+          "hash": "fU2h7AcBPI7c9UT8ZXNjag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.DpiAwareness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.DpiAwareness.html",
+          "hash": "gy0TvdA0p41NScyqltUD7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.DpiAwarenessContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.DpiAwarenessContext.html",
+          "hash": "pWDszIEmWnyxcFexD4zhCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.DpiHostingBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.DpiHostingBehavior.html",
+          "hash": "q9Dj6LzwybyJTTTI13w02A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.MonitorDpiType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.MonitorDpiType.html",
+          "hash": "tbXsIKAN5rD+gKuSvO+AQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Enums.html",
+          "hash": "jZgRC9TeY0GZKzsVscjeHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Forms.DpiAwareForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Forms.DpiAwareForm.html",
+          "hash": "lwfrn71liwpjD33JkgAjaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Forms.DpiUnawareForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Forms.DpiUnawareForm.html",
+          "hash": "x3JC2/ecejqtad6sksAhfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Forms.FormsDpiExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Forms.FormsDpiExtensions.html",
+          "hash": "8n7OWwm8ANfmW5GmxAtAGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Forms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Forms.html",
+          "hash": "XirCoD+pEKDDzAZYakgFFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.NativeDpiMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.NativeDpiMethods.html",
+          "hash": "aMnb1RaZYYpUdF2G1JlwbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Wpf.WindowDpiExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Wpf.WindowDpiExtensions.html",
+          "hash": "yi7TkJfNKMmrb80PBICwPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.Wpf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.Wpf.html",
+          "hash": "bkZV9Q04jNYICj/uzKaKUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Dpi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Dpi.html",
+          "hash": "/uyOJ4dGG5gVPAtlzf0KFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.EmbeddedBrowser.ExtendedWebBrowser.ExtendedWebBrowserSite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.EmbeddedBrowser.ExtendedWebBrowser.ExtendedWebBrowserSite.html",
+          "hash": "MREYVX5c4ccEGSizPYy9HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.EmbeddedBrowser.ExtendedWebBrowser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.EmbeddedBrowser.ExtendedWebBrowser.html",
+          "hash": "re8tTeXZHHBapkw/DyGgrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.EmbeddedBrowser.InternetExplorerVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.EmbeddedBrowser.InternetExplorerVersion.html",
+          "hash": "bRddG75UEKANBEX4HxlVvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.EmbeddedBrowser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.EmbeddedBrowser.html",
+          "hash": "XwIDgk/r6drXFSJ+WqLAjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Enums.InteropWindowRetrieveSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Enums.InteropWindowRetrieveSettings.html",
+          "hash": "Im2bFuX+rzgVInnqJLxmxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Enums.WinEventHookFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Enums.WinEventHookFlags.html",
+          "hash": "/iSYgvopyMyIViwZxHbvJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Enums.WinEvents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Enums.WinEvents.html",
+          "hash": "XxYoyyEdAEu2O2Fs4G7Ksw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Enums.html",
+          "hash": "Rv8SnJeypdU9bVPTGwcPIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Extensions.BitmapExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Extensions.BitmapExtensions.html",
+          "hash": "1UXZR1RazVNzIeW35SxKdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Extensions.FormsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Extensions.FormsExtensions.html",
+          "hash": "KIc3Fa5JX6UAn2zgxITT4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Extensions.WindowsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Extensions.WindowsExtensions.html",
+          "hash": "dNt3Ks5T6SG7dKvHKsC8WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Extensions.html",
+          "hash": "+neMoJFBsgeE9qxJtRu/UA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.BitmapCompressionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.BitmapCompressionMethods.html",
+          "hash": "tDun346ZsC4AWqPPOa64Xg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.ColorSpace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.ColorSpace.html",
+          "hash": "SOnGw+tHQbFY5ujwZ2h4NQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.DeviceCaps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.DeviceCaps.html",
+          "hash": "makw6MlwNzgfKxjCZv45jQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.DibColors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.DibColors.html",
+          "hash": "5b6ExUpSaifZYmdWs2mcwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.GdiPlusStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.GdiPlusStatus.html",
+          "hash": "fdNGRU+HFWZ+JUbuePnGQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.GpUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.GpUnit.html",
+          "hash": "OoZkkesg1aWevLMCiJGAWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.RasterOperations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.RasterOperations.html",
+          "hash": "DBDAN1dWAXxCt+BIrC/qzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Enums.html",
+          "hash": "mqefoeAGe/+EaneGmlkj/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Gdi32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Gdi32Api.html",
+          "hash": "Q8uC83utTEvnDV+P+3t15g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.GdiExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.GdiExtensions.html",
+          "hash": "OVEZvREyUsw1xr5GjOAs3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.GdiPlusApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.GdiPlusApi.html",
+          "hash": "/dYGCrEpWyCeaGnnBEwSMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeCompatibleDcHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeCompatibleDcHandle.html",
+          "hash": "4y14U5KNDwqpxbkPPgBJ2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeDcHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeDcHandle.html",
+          "hash": "ZmjGK+5LDt8b905Z+/HkFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeDibSectionHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeDibSectionHandle.html",
+          "hash": "iBBze/eHhhOtRRu9gjscSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeGraphicsDcHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeGraphicsDcHandle.html",
+          "hash": "Du3HBuGw+ScGgkF4noHn/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeHBitmapHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeHBitmapHandle.html",
+          "hash": "mWSyUJZe9eSWVeN3qkFXxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeObjectHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeObjectHandle.html",
+          "hash": "w2hZLPtRN8k6bZCaYpCbaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeRegionHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeRegionHandle.html",
+          "hash": "lh5yt5VX3b52EKEktfcF/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeSelectObjectHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeSelectObjectHandle.html",
+          "hash": "uLWdIdwY63jk+MswRutCRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeWindowDcHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.SafeWindowDcHandle.html",
+          "hash": "3zR3ajnzKNE5+I/NLgu3QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.SafeHandles.html",
+          "hash": "ncuccpcgrChOj66ppBdQjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.BitfieldColorMask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.BitfieldColorMask.html",
+          "hash": "qX2wG4jchWlvqn3qtQuJsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.BitmapFileHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.BitmapFileHeader.html",
+          "hash": "R0tHwJZWMUCB8oZ7krPsYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.BitmapInfoHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.BitmapInfoHeader.html",
+          "hash": "gza1lqWFihGW5vfiFR5m/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.BlurParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.BlurParams.html",
+          "hash": "KoGfbdT1IavcG9CPpsmZow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.CieXyz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.CieXyz.html",
+          "hash": "7aT6Klk236oHuji2KgHdaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.CieXyzTripple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.CieXyzTripple.html",
+          "hash": "u3ukmJYADesSf3XYAW6mew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.Structs.html",
+          "hash": "6C14/LeF5RDsjHIgXk58hQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Gdi32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Gdi32.html",
+          "hash": "kTo8DMTatq6Y36tTcgOvag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.CursorHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.CursorHelper.html",
+          "hash": "Y5I2qaZ4gUNmInBsHeJY9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Enums.FolderType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Enums.FolderType.html",
+          "hash": "Bk9F4CoeIyGRklManV6C4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Enums.IconSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Enums.IconSize.html",
+          "hash": "Ldg4SZBAPqRNyAA/51fzuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Enums.ShellGetFileInfoFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Enums.ShellGetFileInfoFlags.html",
+          "hash": "sfQA4s0XV5j6wQ/uTWve1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Enums.html",
+          "hash": "Os64pkMv8xQfRwbYz1+Bgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.IconExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.IconExtensions.html",
+          "hash": "/eQVlRjmVUpPjChUu/Z8Ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.IconHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.IconHelper.html",
+          "hash": "nw1r5Q7BBeD0HYhvkmbVfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.NativeCursorMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.NativeCursorMethods.html",
+          "hash": "7d1SoxMdgI5q+aQCwr+abw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.NativeIconMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.NativeIconMethods.html",
+          "hash": "ZJCnvJNrY2Xf4/wZgawSJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.SafeHandles.SafeIconHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.SafeHandles.SafeIconHandle.html",
+          "hash": "8xe2pd/tg18wxAc+CDG0MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.SafeHandles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.SafeHandles.html",
+          "hash": "Y/yQINsnl7pQSogEo69BuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Shell32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Shell32.html",
+          "hash": "qJFYo1oJlmdkAKW91QQPEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Structs.IconInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Structs.IconInfo.html",
+          "hash": "fatG61oR1M7dDci6zFNgPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Structs.ShellFileInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Structs.ShellFileInfo.html",
+          "hash": "K886AoxprwZpIIRRNL6sUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.Structs.html",
+          "hash": "riZa/aE7XU7h9UexFM778Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Icons.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Icons.html",
+          "hash": "f8l9iV7JohlTOebCNUU8QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.ExtendedKeyFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.ExtendedKeyFlags.html",
+          "hash": "TMhpoPmyO88I5Z2zMDcjlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.ExtendedMouseFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.ExtendedMouseFlags.html",
+          "hash": "nvEF9ervbvFgXNm1p44VtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.HidUsagePages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.HidUsagePages.html",
+          "hash": "lLOwD7e4V808RbUAjFbCaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.HidUsagesConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.HidUsagesConsumer.html",
+          "hash": "/Era+c9Ft4axkiyzmAdFKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.HidUsagesGeneric.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.HidUsagesGeneric.html",
+          "hash": "oc3xoU0fJqc5NtXhTtBgvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.HookTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.HookTypes.html",
+          "hash": "GQZlwJv5t4EWniqFl20UbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.InputTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.InputTypes.html",
+          "hash": "Ww56em/jwLuCnO5hzz4nKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.KeyEventFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.KeyEventFlags.html",
+          "hash": "MiFnAt7MwtNJO344Wkf07A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.MouseButtonStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.MouseButtonStates.html",
+          "hash": "xeBbhIRF8nwQZ9znZa/ZkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.MouseButtons.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.MouseButtons.html",
+          "hash": "Lmnmh/Pc/3gpwoKztV5dNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.MouseEventFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.MouseEventFlags.html",
+          "hash": "qltaydiNTJNIOLfqsnGgYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.MouseStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.MouseStates.html",
+          "hash": "SYMncM7565393Q3XhWee7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDataCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDataCommands.html",
+          "hash": "n4bLHakPZYze4zgB573ImQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDeviceFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDeviceFlags.html",
+          "hash": "mGJzRShmGpDZZ4Qyndr94g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDeviceInfoCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDeviceInfoCommands.html",
+          "hash": "V9TRGbiAGHdql9DNQ2aHQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDeviceTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDeviceTypes.html",
+          "hash": "18pNNj7VcDJ80fRdotk+0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDevices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.RawInputDevices.html",
+          "hash": "VyoMnnVV7CVYzyyK49RvLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.RawKeyboardFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.RawKeyboardFlags.html",
+          "hash": "0oNibKwmkD0Q9RR8+vhQkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.ScanCodes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.ScanCodes.html",
+          "hash": "U3jS40DLhoH4K2nQTdRFpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.VirtualKeyCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.VirtualKeyCode.html",
+          "hash": "aemyvNWzLTx+6dvuk1RnDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Enums.html",
+          "hash": "j7w4J4pv4IyxpOTkBH9RcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.IKeyboardHookEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.IKeyboardHookEventHandler.html",
+          "hash": "SAEI10umAVeX8t0mfSmPPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyCombinationHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyCombinationHandler.html",
+          "hash": "dZAzd/4eOhk7Jyrn3hkYUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyHelper.html",
+          "hash": "7JrTHL19oE30uP7zKva5KA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyOrCombinationHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyOrCombinationHandler.html",
+          "hash": "TPwFGcE6lnWErJpTn7p2OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeySequenceHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeySequenceHandler.html",
+          "hash": "oRrOUAm2Sr8GKnQbi44vvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardHook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardHook.html",
+          "hash": "hBDw8rh1H9gMy36s3Wt5ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardHookEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardHookEventArgs.html",
+          "hash": "gdJX9jvvaZOf4ibTwwnEnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardHookExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardHookExtensions.html",
+          "hash": "mGylRShVYcqt4xrliL2qyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardInputGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.KeyboardInputGenerator.html",
+          "hash": "0RIPkkEnVPkYxjEg4noFGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.VirtualKeyCodeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.VirtualKeyCodeExtensions.html",
+          "hash": "NvWKD/w8mU9gV9Bs9a5u+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Keyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Keyboard.html",
+          "hash": "cDozAzGPIONyjZkzg9rw/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Mouse.MouseHook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Mouse.MouseHook.html",
+          "hash": "OCywPdPPtTyvTR69dYY5ZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Mouse.MouseHookEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Mouse.MouseHookEventArgs.html",
+          "hash": "xGVGCxVObf4bwMYTp51zsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Mouse.MouseInputGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Mouse.MouseInputGenerator.html",
+          "hash": "In3FB811TdEfQHXLcQdIKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Mouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Mouse.html",
+          "hash": "eekv/lq9NZm+cubCnKykVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.NativeInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.NativeInput.html",
+          "hash": "I7irYsMOFdSE/TgNLxSSNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.RawInputApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.RawInputApi.html",
+          "hash": "hNzKkXXHPf5I3VDsWC66aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.RawInputDeviceChangeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.RawInputDeviceChangeEventArgs.html",
+          "hash": "dJTscbzK3mQtUD2iu6sP8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.RawInputDeviceInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.RawInputDeviceInformation.html",
+          "hash": "lSFkomtSPAbGwccjHnKU9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.RawInputEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.RawInputEventArgs.html",
+          "hash": "9XBaHVqWB2Z6dIlM5/elAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.RawInputMonitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.RawInputMonitor.html",
+          "hash": "mxjYxHNswr96d44ApFtbjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.HardwareInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.HardwareInput.html",
+          "hash": "W54kD/qCCvwalG53gt473Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.Input.html",
+          "hash": "SWeDYmM8UauQ16mzm+gKRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.InputUnion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.InputUnion.html",
+          "hash": "ZpXEsMjGnbcB1c5CToHUcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.KeyboardInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.KeyboardInput.html",
+          "hash": "NVYAn5GZQUarfOPOxtI7Rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.KeyboardLowLevelHookStruct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.KeyboardLowLevelHookStruct.html",
+          "hash": "gjOibrZhlFaJbTBNDb4Hwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.LastInputInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.LastInputInfo.html",
+          "hash": "kv2pl9xQiF0sXUA0keefbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.MouseInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.MouseInput.html",
+          "hash": "+3d/Y3tpxBBMUDyBoJm8Zg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.MouseLowLevelHookStruct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.MouseLowLevelHookStruct.html",
+          "hash": "pZB0U73fcDiSnJi6+J/xAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawDevice.html",
+          "hash": "bjIh1KhY5I6vlSEtluLCGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawHID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawHID.html",
+          "hash": "HDqcQ0+MgiBODBaYcwW5nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInput.html",
+          "hash": "vo4Kb4QKMf2LJ9xKScQxfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDevice.html",
+          "hash": "Ez+K+O/2Uzt8FQwsIN83jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfo.html",
+          "hash": "ZOgMVaFAkEFJCkkNi13mJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfoHID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfoHID.html",
+          "hash": "/Sm6yxYEOf7x67LkJP5UNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfoKeyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfoKeyboard.html",
+          "hash": "/23c+zmW+ucKzN32cuJVVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfoMouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceInfoMouse.html",
+          "hash": "TI4i3MATAHFZqUEMBhSNaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputDeviceList.html",
+          "hash": "fpJX4WVWSM8AlfKmjWML9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawInputHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawInputHeader.html",
+          "hash": "zQ6xXFl7q0Xzxv18vy1Ikg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawKeyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawKeyboard.html",
+          "hash": "YUEkD6DyDtjSk27kc+VPlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.RawMouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.RawMouse.html",
+          "hash": "h/gB4TVkBKO6jJQ/K98P3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.Structs.html",
+          "hash": "21cpmzMVuFuwi78Ic6n/LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Input.html",
+          "hash": "/+XZFjQRbACKL9IftxETTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.DefaultDllDirectories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.DefaultDllDirectories.html",
+          "hash": "jNXDxxP7p0e3WQGt2WAyXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.GlobalMemorySettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.GlobalMemorySettings.html",
+          "hash": "kjMlNlSmYUsXgBo+uEAwTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.ProcessAccessRights.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.ProcessAccessRights.html",
+          "hash": "oZ4ZsFHxXm+0S/UzF21rSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.ThreadAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.ThreadAccess.html",
+          "hash": "OEMBNGADFeCaXVaASWljiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.WindowsProductTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.WindowsProductTypes.html",
+          "hash": "s0b66NlJcJGNC3vMfU/OWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.WindowsProducts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.WindowsProducts.html",
+          "hash": "pkKUp+iwx4ja/rFfjt3m8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.WindowsSuites.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.WindowsSuites.html",
+          "hash": "8tVNgwn8WcBc++RzH64IiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Enums.html",
+          "hash": "23CKHbiQWnXfH7nSne5xgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Kernel32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Kernel32Api.html",
+          "hash": "54uCZ2hAfmJ/tPDeuXnAOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.PackageInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.PackageInfo.html",
+          "hash": "t5r5fNmTzgFj2OdZfZmwZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.PsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.PsApi.html",
+          "hash": "eUIGlxblhg+5iqS6avNdug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Structs.OsVersionInfoEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Structs.OsVersionInfoEx.html",
+          "hash": "3Na59W4+FVx4AaS798HA7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.Structs.html",
+          "hash": "vcyT8U0XOfGBAgCqNq0vtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Kernel32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Kernel32.html",
+          "hash": "OtyZ3eckyEmbfj9SgMfj0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.Enumerations.WindowsMessages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.Enumerations.WindowsMessages.html",
+          "hash": "dtU4CBJzbQ3iEfYa+LOM9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.Enumerations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.Enumerations.html",
+          "hash": "5eCXShNZPSWRZw66CcpVMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.MessageLoop.MessageProc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.MessageLoop.MessageProc.html",
+          "hash": "ONy6M8MWrWRiYSoCeM2kdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.MessageLoop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.MessageLoop.html",
+          "hash": "ZO0ERZr5Qp72irCu4zSjxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.Structs.Msg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.Structs.Msg.html",
+          "hash": "3zZkPb8a0RkcWz5OBcxFeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.Structs.html",
+          "hash": "OzOM7ipL5HtPEzBV/8nYYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WinProcFormsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WinProcFormsExtensions.html",
+          "hash": "iSb4x2KWWXDnHfXfcPgBZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WinProcHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WinProcHandler.html",
+          "hash": "jzMnbm4j7MeAS+sHkkf/sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WinProcHandlerHook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WinProcHandlerHook.html",
+          "hash": "b8ShbAOC5Q0MHsu/6Jh2Ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WinProcListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WinProcListener.html",
+          "hash": "OtY4a6MA7BVnm3Bh0T3RYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WinProcWindowsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WinProcWindowsExtensions.html",
+          "hash": "t63T5XAjxetG1NhFHCASgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WindowMessageInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WindowMessageInfo.html",
+          "hash": "AinMFCBurwynHa53/diNRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.WindowsMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.WindowsMessage.html",
+          "hash": "TxiPw6YJXyySJyGOp+DKrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Messages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Messages.html",
+          "hash": "+TWAJ8QWf9hmK3BZqWdtJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Multimedia.Enums.SoundSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Multimedia.Enums.SoundSettings.html",
+          "hash": "DOUrb/cwin9tS6/89TOfJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Multimedia.Enums.SystemSounds.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Multimedia.Enums.SystemSounds.html",
+          "hash": "5ohESnLTGgelaVbssUAPcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Multimedia.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Multimedia.Enums.html",
+          "hash": "bJa359WRBdyl0svP/KvhKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Multimedia.WinMm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Multimedia.WinMm.html",
+          "hash": "e4NAwunEwXrfY05Q5vJQyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Multimedia.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Multimedia.html",
+          "hash": "hEHQWzK6AJrUiorHjCEuhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Enums.AppBarEdges.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Enums.AppBarEdges.html",
+          "hash": "Z8CXseAuDToUzGE2fNnHNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Enums.AppBarMessages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Enums.AppBarMessages.html",
+          "hash": "+k8RbmsDeSPIWgFVa559Cw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Enums.AppBarStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Enums.AppBarStates.html",
+          "hash": "mRjvFYJBzoJU6EtjNdziHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Enums.html",
+          "hash": "gdvvrtbnxsEHUHk01zqbBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Shell32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Shell32Api.html",
+          "hash": "7G1IPjx9C1qaO4H6PioLDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Structs.AppBarData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Structs.AppBarData.html",
+          "hash": "qhs/nNxDN/pvVkJt3Tm6pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.Structs.html",
+          "hash": "IMdHjFbl+Tos57niN5r9mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Shell32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Shell32.html",
+          "hash": "SrxNJUpr2ytYu6cGPBmM3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Software.InstallationInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Software.InstallationInformation.html",
+          "hash": "3juB/yNbc1s9YkLLrEKgug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Software.SoftwareDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Software.SoftwareDetails.html",
+          "hash": "yzqvQ4aImGrZvNFM9uSxyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Software.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Software.html",
+          "hash": "/TZ+DY2jLdB4oCEkt10olQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Structs.WinEventInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Structs.WinEventInfo.html",
+          "hash": "qNN3QBOgdfsTxOWxpO8bZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Structs.html",
+          "hash": "AXqqtjulVSlya21y8RjdaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Tests.Benchmarks.ClipboardBenchmarks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Tests.Benchmarks.ClipboardBenchmarks.html",
+          "hash": "rRyIJFRhduF2Oad689gP3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Tests.Benchmarks.EnumerateWindowsBenchmark.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Tests.Benchmarks.EnumerateWindowsBenchmark.html",
+          "hash": "qedVAloknLiz68qvnFMmvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Tests.Benchmarks.InteropWindowBenchmark.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Tests.Benchmarks.InteropWindowBenchmark.html",
+          "hash": "ixqurqHz7YgXJ+vDlCsDzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Tests.Benchmarks.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Tests.Benchmarks.Program.html",
+          "hash": "MJNJJ9JMhwOuuTtTbjFRlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Tests.Benchmarks.ScreenboundsBenchmark.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Tests.Benchmarks.ScreenboundsBenchmark.html",
+          "hash": "QYjWzwQPeHsrhcCodS3Szw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.Tests.Benchmarks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.Tests.Benchmarks.html",
+          "hash": "D39I0jrK+PnvU+xHqo8+jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.DisplayInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.DisplayInfo.html",
+          "hash": "Mz2qDAA7WqRWRWhVEBUdDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ClassLongIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ClassLongIndex.html",
+          "hash": "sGbHvobVm9DHQ6R8AZ0Uig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.CursorInfoFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.CursorInfoFlags.html",
+          "hash": "ayeJkwIfaQ+m2O5Z7YhOSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.DesktopAccessRight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.DesktopAccessRight.html",
+          "hash": "H//bJ3jB9CUsUpKIucw6cQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ExtendedWindowStyleFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ExtendedWindowStyleFlags.html",
+          "hash": "trPzT/6X5anB5F8UDQr8tA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.GetWindowCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.GetWindowCommands.html",
+          "hash": "KDLiPCyrREXtY9AQHN6bHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.MonitorFrom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.MonitorFrom.html",
+          "hash": "oRHDZl4haaPywgS104U9qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.MonitorInfoFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.MonitorInfoFlags.html",
+          "hash": "bFEbQtSSkpxs0Bk2hwraWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ObjectIdentifiers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ObjectIdentifiers.html",
+          "hash": "rIFOK6XZw9Ni4lHD/jAiuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ObjectStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ObjectStates.html",
+          "hash": "X8MM0gOx/rcYi+M8Bp7C3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.PrintWindowFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.PrintWindowFlags.html",
+          "hash": "YhPOJyyvl8gTn7M4R4pZNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.RegionResults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.RegionResults.html",
+          "hash": "SGtN5h7Ng9Haiq3FduRmBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ScrollBarCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ScrollBarCommands.html",
+          "hash": "QXv/oC0Z6Ue7V0DAXGJxsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ScrollBarStateIndexes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ScrollBarStateIndexes.html",
+          "hash": "WnRdYfKNMFX7uRqMDyeniw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ScrollBarTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ScrollBarTypes.html",
+          "hash": "JCp26VKQ9w6S6H5mnxDAJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ScrollInfoMask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ScrollInfoMask.html",
+          "hash": "P3qt91hiuUg7E4cMqoaB4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ScrollModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ScrollModes.html",
+          "hash": "e/jtIPIT+1gyiLd6NeLfpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.SendMessageTimeoutFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.SendMessageTimeoutFlags.html",
+          "hash": "ylcUoayjyG8MwUmS8P/i1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.ShowWindowCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.ShowWindowCommands.html",
+          "hash": "IybCO22KTzE4CapqqtwP9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.SysColorIndexes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.SysColorIndexes.html",
+          "hash": "nfDXpGnNnUMsgXKlFSu1bA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.SysCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.SysCommands.html",
+          "hash": "xeGe5b6q/fS8DQo5zVnPjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.SystemMetric.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.SystemMetric.html",
+          "hash": "xoFEIggrpdzOWz/72u5arQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.SystemParametersInfoActions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.SystemParametersInfoActions.html",
+          "hash": "YvBM9DclJr2Y0j/y1G/Eng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.SystemParametersInfoBehaviors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.SystemParametersInfoBehaviors.html",
+          "hash": "/MeAWxC4yAbjJzvjKm7hag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.TitleBarInfoIndexes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.TitleBarInfoIndexes.html",
+          "hash": "cuiTu6wWyKs4jbnrjPcREw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.WindowDisplayAffinity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.WindowDisplayAffinity.html",
+          "hash": "kpP03PzZat+Zoa8BrQdlfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.WindowLongIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.WindowLongIndex.html",
+          "hash": "/M1a8ga+QBnCFiNbEkSoZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.WindowPlacementFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.WindowPlacementFlags.html",
+          "hash": "M0ZEglvkW7TJMbMe8kI44A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.WindowPos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.WindowPos.html",
+          "hash": "rA5gEZcV9AZMcU1LYTi8gQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.WindowStyleFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.WindowStyleFlags.html",
+          "hash": "CzlachzyjfhY5B9bAADgRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Enums.html",
+          "hash": "ldJYTsveHt+zO8XGC4wlKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.SafeHandles.SafeCurrentInputDesktopHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.SafeHandles.SafeCurrentInputDesktopHandle.html",
+          "hash": "AHxOIsyBfAYr0WJRbYoxcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.SafeHandles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.SafeHandles.html",
+          "hash": "3aSx49UUIk67N8HM380G5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.AnimationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.AnimationInfo.html",
+          "hash": "ub7/M5ughMyot2Gx1PooLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.CursorInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.CursorInfo.html",
+          "hash": "YeUF7Q6VzpnDJde0et1Cbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.MonitorInfoEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.MonitorInfoEx.html",
+          "hash": "K2jceoJcTvu1W/fx79CrYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.ScrollBarInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.ScrollBarInfo.html",
+          "hash": "FP42H59zHIUWBRxYYu8tWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.ScrollInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.ScrollInfo.html",
+          "hash": "n4F+qwpX+zWSwMs286G0uA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.TitleBarInfoEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.TitleBarInfoEx.html",
+          "hash": "LZ15YWqxml4lPrPgw8XiEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.WindowInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.WindowInfo.html",
+          "hash": "/yssvTAPzoKkA29zMgh09w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.WindowPlacement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.WindowPlacement.html",
+          "hash": "MsUkmIkAMc7ZpA4Tfj6kLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.Structs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.Structs.html",
+          "hash": "6bOkUUet+XsVwfqmhQg+AQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.TypeConverters.WindowPlacementTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.TypeConverters.WindowPlacementTypeConverter.html",
+          "hash": "XJStHravRI4GHUjNxk9pfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.TypeConverters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.TypeConverters.html",
+          "hash": "9IjEhQpHEFDFlkBsN+ru2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.User32Api.EnumWindowsProc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.User32Api.EnumWindowsProc.html",
+          "hash": "RVHCzNOq6gKaAU1SIFDrIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.User32Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.User32Api.html",
+          "hash": "2lPQaM8/o9LC0OQd+b8k2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Windows.User32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Windows.User32.html",
+          "hash": "UJ6MzQ8X0RimP79VE5+pYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "+i6gk7gwFnvGHt9v9hpA1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "ncLAJnjKHDPqqfZDDCklWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/d.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/d.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "+wua4IrMNrRL4ETHzRXlqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 356,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
